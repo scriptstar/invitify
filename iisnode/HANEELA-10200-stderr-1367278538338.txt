@@ -1,0 +1,11 @@
+TypeError: undefined is not a function
+    at C:\Users\Narendra\Documents\My Web Sites\invitify\api\server.js:47:16
+    at callbacks (C:\Users\Narendra\Documents\My Web Sites\invitify\node_modules\express\lib\router\index.js:272:11)
+    at param (C:\Users\Narendra\Documents\My Web Sites\invitify\node_modules\express\lib\router\index.js:246:11)
+    at param (C:\Users\Narendra\Documents\My Web Sites\invitify\node_modules\express\lib\router\index.js:243:11)
+    at pass (C:\Users\Narendra\Documents\My Web Sites\invitify\node_modules\express\lib\router\index.js:253:5)
+    at Router._dispatch (C:\Users\Narendra\Documents\My Web Sites\invitify\node_modules\express\lib\router\index.js:280:5)
+    at Object.middleware [as handle] (C:\Users\Narendra\Documents\My Web Sites\invitify\node_modules\express\lib\router\index.js:45:10)
+    at next (C:\Users\Narendra\Documents\My Web Sites\invitify\node_modules\express\node_modules\connect\lib\http.js:204:15)
+    at IncomingMessage.exports.parse.application/json (C:\Users\Narendra\Documents\My Web Sites\invitify\node_modules\express\node_modules\connect\lib\middleware\bodyParser.js:137:7)
+    at IncomingMessage.EventEmitter.emit (events.js:90:17)

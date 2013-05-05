@@ -1,0 +1,20 @@
+info: socket.io started
+debug: served static content /socket.io.js
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized A6uiSpo5rzlEjFHkLxLR
+debug: setting request GET /api/socket.io/1/xhr-polling/A6uiSpo5rzlEjFHkLxLR?t=1367279094155
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client A6uiSpo5rzlEjFHkLxLR
+debug: xhr-polling received data packet 5:::{"name":"registerInterest","args":["517f05f28201d0b80b000003"]}
+debug: setting request GET /api/socket.io/1/xhr-polling/A6uiSpo5rzlEjFHkLxLR?t=1367279094205
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client A6uiSpo5rzlEjFHkLxLR
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client A6uiSpo5rzlEjFHkLxLR
+debug: xhr-polling closed due to exceeded duration

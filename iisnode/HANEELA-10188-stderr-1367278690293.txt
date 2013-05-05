@@ -1,0 +1,12 @@
+Application has thrown an uncaught exception and is terminated:
+TypeError: undefined is not a function
+    at Promise.<anonymous> (C:\Users\Narendra\Documents\My Web Sites\invitify\api\server.js:50:24)
+    at Promise.onResolve (C:\Users\Narendra\Documents\My Web Sites\invitify\node_modules\mongoose\node_modules\mpromise\lib\promise.js:162:8)
+    at Promise.EventEmitter.emit (events.js:93:17)
+    at Promise.emit (C:\Users\Narendra\Documents\My Web Sites\invitify\node_modules\mongoose\node_modules\mpromise\lib\promise.js:79:38)
+    at Promise.fulfill (C:\Users\Narendra\Documents\My Web Sites\invitify\node_modules\mongoose\node_modules\mpromise\lib\promise.js:92:20)
+    at C:\Users\Narendra\Documents\My Web Sites\invitify\node_modules\mongoose\lib\query.js:1813:13
+    at model.Document.init (C:\Users\Narendra\Documents\My Web Sites\invitify\node_modules\mongoose\lib\document.js:243:11)
+    at completeOne (C:\Users\Narendra\Documents\My Web Sites\invitify\node_modules\mongoose\lib\query.js:1811:10)
+    at Query.findOne (C:\Users\Narendra\Documents\My Web Sites\invitify\node_modules\mongoose\lib\query.js:1779:11)
+    at exports.tick (C:\Users\Narendra\Documents\My Web Sites\invitify\node_modules\mongoose\lib\utils.js:408:16)

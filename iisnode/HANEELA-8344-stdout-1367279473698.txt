@@ -1,0 +1,88 @@
+info: socket.io started
+debug: served static content /socket.io.js
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized rlnGladWRlTItJvBNRaA
+debug: setting request GET /api/socket.io/1/xhr-polling/rlnGladWRlTItJvBNRaA?t=1367279485165
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client rlnGladWRlTItJvBNRaA
+debug: setting request GET /api/socket.io/1/xhr-polling/rlnGladWRlTItJvBNRaA?t=1367279485179
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client rlnGladWRlTItJvBNRaA
+debug: xhr-polling received data packet 5:::{"name":"registerInterest","args":["517f077adce2479820000003"]}
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"invitationUpdate","args":[{"title":"Happy","_id":"517f077adce2479820000003","__v":1,"votes":[{"name":"Narendra","_id":"517f0781dce2479820000006","choices":[0]}],"choices":[{"id":0,"displayText":"Yes","_id":"517f077adce2479820000005"},{"id":1,"displayText":"No","_id":"517f077adce2479820000004"}]}]}
+debug: set close timeout for client rlnGladWRlTItJvBNRaA
+debug: setting request GET /api/socket.io/1/xhr-polling/rlnGladWRlTItJvBNRaA?t=1367279489523
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client rlnGladWRlTItJvBNRaA
+debug: client authorized
+info: handshake authorized Nawm2yOby_TjajbbNRaB
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client rlnGladWRlTItJvBNRaA
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /api/socket.io/1/xhr-polling/rlnGladWRlTItJvBNRaA?t=1367279499570
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client rlnGladWRlTItJvBNRaA
+debug: setting request GET /api/socket.io/1/xhr-polling/Nawm2yOby_TjajbbNRaB?t=1367279498682
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client Nawm2yOby_TjajbbNRaB
+debug: setting request GET /api/socket.io/1/xhr-polling/Nawm2yOby_TjajbbNRaB?t=1367279499620
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client Nawm2yOby_TjajbbNRaB
+debug: xhr-polling received data packet 5:::{"name":"registerInterest","args":["517f077adce2479820000003"]}
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"invitationUpdate","args":[{"__v":2,"_id":"517f077adce2479820000003","title":"Happy","votes":[{"name":"Sanjay","_id":"517f0792dce2479820000007","choices":[1]}],"choices":[{"id":0,"displayText":"Yes","_id":"517f077adce2479820000005"},{"id":1,"displayText":"No","_id":"517f077adce2479820000004"}]}]}
+debug: set close timeout for client rlnGladWRlTItJvBNRaA
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"invitationUpdate","args":[{"__v":2,"_id":"517f077adce2479820000003","title":"Happy","votes":[{"name":"Sanjay","_id":"517f0792dce2479820000007","choices":[1]}],"choices":[{"id":0,"displayText":"Yes","_id":"517f077adce2479820000005"},{"id":1,"displayText":"No","_id":"517f077adce2479820000004"}]}]}
+debug: set close timeout for client Nawm2yOby_TjajbbNRaB
+debug: setting request GET /api/socket.io/1/xhr-polling/Nawm2yOby_TjajbbNRaB?t=1367279506509
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client Nawm2yOby_TjajbbNRaB
+debug: setting request GET /api/socket.io/1/xhr-polling/rlnGladWRlTItJvBNRaA?t=1367279506480
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client rlnGladWRlTItJvBNRaA
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client Nawm2yOby_TjajbbNRaB
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /api/socket.io/1/xhr-polling/Nawm2yOby_TjajbbNRaB?t=1367279516527
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client Nawm2yOby_TjajbbNRaB
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client rlnGladWRlTItJvBNRaA
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /api/socket.io/1/xhr-polling/rlnGladWRlTItJvBNRaA?t=1367279516573
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client rlnGladWRlTItJvBNRaA
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client Nawm2yOby_TjajbbNRaB
+debug: xhr-polling closed due to exceeded duration
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client rlnGladWRlTItJvBNRaA
+debug: xhr-polling closed due to exceeded duration
+debug: fired close timeout for client Nawm2yOby_TjajbbNRaB
+info: transport end (close timeout)
+debug: discarding transport
+debug: fired close timeout for client rlnGladWRlTItJvBNRaA
+info: transport end (close timeout)
+debug: discarding transport
