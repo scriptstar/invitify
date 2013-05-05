@@ -1,2 +1,3 @@
 *.js.logs/*.txt
 node_modules/
+api/config.js
